@@ -48,7 +48,7 @@ $ yarn test
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/wilsonfsouza/challenge-concepts-nodejs/blob/master/README.md) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/wilsonfsouza/challenge-concepts-nodejs/blob/master/LICENSE) for more information.
 
 ---
 
