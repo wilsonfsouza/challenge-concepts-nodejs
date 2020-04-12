@@ -15,7 +15,7 @@
 
 ## :rocket: Technologies
 
-This project was developed at the [GoStack Bootcamp 2020][RocketSeat] using the following technologies and packages:
+This project was developed at the [GoStack Bootcamp 2020](https://rocketseat.com.br/) using the following technologies and packages:
 
 -  [Cors](https://github.com/expressjs/cors)
 -  [Express](https://expressjs.com/)
@@ -31,12 +31,6 @@ This project was developed at the [GoStack Bootcamp 2020][RocketSeat] using the 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v12.16.2 LTS][nodejs], and [Yarn v1.22][yarn] installed on your computer. From your command line:
 
 ```bash
-# Make your main folder
-$ mkdir folderName
-
-# Go into the folder created
-$ cd folderName
-
 # Clone this repository
 $ git clone https://github.com/wilsonfsouza/challenge-concepts-nodejs.git backend
 
@@ -65,4 +59,3 @@ Made with :heart: by Wilson Franca :wave: [Get in touch!](https://www.linkedin.c
 [yarn]: https://yarnpkg.com/
 [vc]: https://code.visualstudio.com/
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-[RocketSeat]:(https://rocketseat.com.br/)
