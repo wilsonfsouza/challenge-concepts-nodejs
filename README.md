@@ -24,7 +24,6 @@ This project was developed at the [GoStack Bootcamp 2020][RocketSeat] using the 
 -  [Nodemon](https://github.com/remy/nodemon)
 -  [Supertest](https://www.npmjs.com/package/supertest)
 -  [Uuidv4](https://www.npmjs.com/package/uuidv4)
-<br>
 -  [VS Code][vc] with [ESLint][vceslint]
 
 ## :information_source: How To Use
